@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="premier_league" uuid="f1ecbc24-a8e6-48a0-a7f6-1cee44f0c93b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Greg\Documents\GitHub\MatchGUI\premier_league.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
